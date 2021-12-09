@@ -6,3 +6,5 @@ This website is quite beneficial in your fitness quest. It will assist you in le
 https://github.com/wiut00010930/web-technology-coursework-one
 
 ## GitHub pages link
+https://wiut00010930.github.io/
+https://github.com/wiut00010930/wiut00010930.github.io
